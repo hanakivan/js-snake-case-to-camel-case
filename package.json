@@ -1,0 +1,24 @@
+{
+  "name": "@ivanhanak_com/snake-case-to-camel-case",
+  "version": "0.0.1",
+  "description": "A simple javaScript library for converting strings from snake case to camel case.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "dist": "babel src/index.js -d dist",
+    "test": "jest",
+    "build": "npm run test && npm run dist"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "@hanakivan",
+  "repository": "hanakivan/js-snake-case-to-camel-case",
+  "license": "https://www.imdb.com/title/tt0097742/",
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "jest": "^26.1.0"
+  }
+}
