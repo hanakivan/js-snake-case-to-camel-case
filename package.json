@@ -1,6 +1,6 @@
 {
   "name": "@ivanhanak_com/snake-case-to-camel-case",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple javaScript library for converting strings from snake case to camel case.",
   "main": "./dist/index.js",
   "scripts": {

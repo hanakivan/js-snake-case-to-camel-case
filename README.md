@@ -5,7 +5,7 @@
 
 A simple javaScript library for converting strings from snake case to camel case.
 
-Version: 0.0.1
+Version: 0.0.2
 
 Stable release 1.0.0 will be released once tests are ready. 
 
